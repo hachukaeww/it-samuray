@@ -1,7 +1,7 @@
 .header {
     grid-area: h;
     background-color: cornflowerblue;
-    border-radius: 0 0 5px 5px;
+    border-radius: 5px;
 }
 .header__logo{
     width: 64px;
