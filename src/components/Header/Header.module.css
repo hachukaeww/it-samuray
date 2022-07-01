@@ -3,7 +3,7 @@
     background-color: cornflowerblue;
     border-radius: 5px;
 }
-.header__logo{
+.header__logo {
     width: 64px;
     height: 64px;
     background-color: darkred;
@@ -11,4 +11,3 @@
     margin-left: 30px;
     margin-top: 9px;
 }
-

@@ -1,11 +1,7 @@
-.dialog{
-    padding-top: 30px;
+.dialog {
     display: grid;
     grid-template-columns: 2fr 10fr;
 }
-.dialogItem{
-    padding: 10px;
-}
-.message{
+.dialogItem {
     padding: 10px;
 }

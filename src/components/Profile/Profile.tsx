@@ -6,8 +6,8 @@ import ProfileInfo from "./MyPosts/ProfileInfo/ProfileInfo";
 const Profile = () => {
   return (
     <div className={s.content}>
-      <ProfileInfo />
-      <MyPosts message={""}  />
+      <ProfileInfo/>
+      <MyPosts/>
     </div>
   );
 };
